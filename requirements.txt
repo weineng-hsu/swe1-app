@@ -8,3 +8,4 @@ coveralls
 psycopg2-binary
 whitenoise
 pyyaml
+django-heroku
